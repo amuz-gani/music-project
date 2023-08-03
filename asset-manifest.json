@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/music-project/static/css/main.da3089f3.css",
+    "main.js": "/music-project/static/js/main.31ba19b9.js",
+    "index.html": "/music-project/index.html",
+    "main.da3089f3.css.map": "/music-project/static/css/main.da3089f3.css.map",
+    "main.31ba19b9.js.map": "/music-project/static/js/main.31ba19b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.31ba19b9.js"
+  ]
+}
