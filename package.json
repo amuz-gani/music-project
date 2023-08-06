@@ -1,6 +1,7 @@
 {
   "name": "music-project",
   "version": "0.1.0",
+  "homepage": "https://amuz-gani.github.io/music-project",
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.11.8",
@@ -12,6 +13,7 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -19,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
