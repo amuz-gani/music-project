@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/music-project/static/css/main.da3089f3.css",
-    "main.js": "/music-project/static/js/main.c952ee2c.js",
+    "main.js": "/music-project/static/js/main.bab358f9.js",
     "static/media/banner.jpg": "/music-project/static/media/banner.560e38e799908a8a535a.jpg",
     "index.html": "/music-project/index.html",
     "main.da3089f3.css.map": "/music-project/static/css/main.da3089f3.css.map",
-    "main.c952ee2c.js.map": "/music-project/static/js/main.c952ee2c.js.map"
+    "main.bab358f9.js.map": "/music-project/static/js/main.bab358f9.js.map"
   },
   "entrypoints": [
     "static/css/main.da3089f3.css",
-    "static/js/main.c952ee2c.js"
+    "static/js/main.bab358f9.js"
   ]
 }
