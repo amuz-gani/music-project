@@ -16,7 +16,7 @@ function Main() {
 
         // 토큰자리
         handleTokenReceived(
-            "BQDeH1OoyQVccxQe0_tnYWqbZDUmZJEmHdpgjwBX3qyptpmZ3ncC7hbYLdXedmFx6zR8vi8BC2jwTvPKMHAUNhehR3difgI9Rj39HMjiMoCdxWsHi1TC9BILESWJn0Vbleyp3IEoajoddVKn5wSaujF9sfgbhG460sX805TmNWpgWmN9GQoFoCDZjWWn89Xt0hHOaaHkdd4y0F6ZmT-0QRCTQo-E"
+            "BQAzr9a2LKkYtSKdI-4lmPNAgyaStN1AXQBvhRbuBdZRD3707Q3AKC7V9Ik6tLsY9jtpcaonpsX2OZuei13Z2olNDoR1XtSB6nmmyETWJR1n1toRK3bWW3YRB3m3yqS8nw1ZrGNuPv7uYjFhA4tdVZ7dpZHOXq6XWvcCJ8s_Uk7UqKzllq7I8yutZiNof8jkBqzGVKcuxTe2xFxpoiTzK9X6XhXk"
         );
     }, []);
 
